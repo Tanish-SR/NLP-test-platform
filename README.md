@@ -95,6 +95,8 @@ An AI-powered application that generates multiple-choice questions on any topic 
 - `GET /api/questions/topic/:topic` - Get questions by topic
 - `DELETE /api/questions/:id` - Delete a question
 
+testing n8n automation
+
 ## Troubleshooting
 
 - **MongoDB errors**: Verify MongoDB is running and MONGO_URI is correct
