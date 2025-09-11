@@ -100,3 +100,6 @@ An AI-powered application that generates multiple-choice questions on any topic 
 - **MongoDB errors**: Verify MongoDB is running and MONGO_URI is correct
 - **API key issues**: Check your Gemini API key is valid
 - **CORS errors**: Ensure the backend is running on port
+
+
+testing automatic code review
